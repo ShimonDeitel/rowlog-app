@@ -1,0 +1,37 @@
+{
+  "identifier": "3F5D0A10-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Rowlog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Split-pace trend charts and personal-best tracking",
+              "displayName": "Rowlog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "rowlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Rowlog Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": "1"
+}
